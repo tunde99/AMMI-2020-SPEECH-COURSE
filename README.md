@@ -12,5 +12,6 @@ Hence, despite the fact that short sentences are preferred for raw speech, this 
 This data contains raw speech recorded (in Hausa language) by describing events as found in different images that made up the story (source: https://lig-aikuma.imag.fr/wp-content/uploads/2018/07/FrogStory.zip).
 ## Limitations/problems encountered during data collection
 1. There is possiblity the data contains background noise, like the humming sound of A.C or the soft chatters of flatmates.
-2. The recording was done after undergoing a minor dental surgery.
-3. The recorded language, Hausa, is the language of my region of birth (not my mother-tongue). Apologies to the native Hausa speakers for all incorrectly pronounced words and every injustice to stress patterns.
+2. The recording took place in the middle of the night (hoping to have few or zero persons awake) in case my voice sounded sleepy.
+3. The recording was done after undergoing a minor dental surgery (in case I sounded funny).
+4. The recorded language, Hausa, is the language of my region of birth (not my mother-tongue). Apologies to the native Hausa speakers for all incorrectly pronounced words and every injustice to stress patterns.
