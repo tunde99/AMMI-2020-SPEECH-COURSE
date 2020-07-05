@@ -19,8 +19,11 @@ This data contains raw speech recorded (in **Hausa language**) by describing eve
 ### Author
 **Tunde Ajayi**
 Machine Intelligence Student
+
 African Masters in Machine Intelligence (AMMI)
+
 African Institute for Mathematical Sciences, Ghana
+
 tajayi@aimsammi.org
 
 
