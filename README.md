@@ -4,8 +4,8 @@ The AMMI 2020 Speech Recognition course was taught by Gabriel Synnaeve, Neil Zeg
 The repo contains two major `recordings` in **Hausa language**: 2h read speech and raw speech on Frog Story. They were collected using a mobile app called [lig-aikuma.](https://lig-aikuma.imag.fr/download/) (Source: https://lig-aikuma.imag.fr/download/)
 ## Part 1: 2h read speech
 Caveat: This record is made up of approximately 2h speech read from text (source: https://github.com/afrisauti/hausa_text_corpus) with long sentences (don't be suprised to find a prompt of up to 7 lines). It is very useful for two categories of people:
-. Researchers who truly seeks raw speech from very long sentences.
-. Researchers who are curious to know the effect of long sentences on their speech or language models.
+* Researchers who truly seeks raw speech from very long sentences.
+* Researchers who are curious to know the effect of long sentences on their speech or language models.
 
 Hence, despite the fact that short sentences are preferred for raw speech, this long-sentences speech recording is very useful as it has its own role to play in research where testing robustness of models is required. This explains why a recorded prompt could vary from a minute to 5 or 7 minutes. This data is worth appreciating due to its uniqueness and research prospects.
 ## Part 2: Frog story
