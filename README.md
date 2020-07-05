@@ -25,6 +25,6 @@ African Masters in Machine Intelligence (AMMI)
 
 African Institute for Mathematical Sciences, Ghana
 
-tajayi@aimsammi.org`
+tajayi@aimsammi.org
 
 
