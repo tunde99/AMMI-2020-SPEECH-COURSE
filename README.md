@@ -17,10 +17,9 @@ This data contains raw speech recorded (in **Hausa language**) by describing eve
 * The recorded language, Hausa, is the language of my region of birth (not my mother-tongue). Apologies to the native Hausa speakers for all incorrectly pronounced words and every injustice to stress patterns.
 
 ### Author
-`**Tunde Ajayi**
+**Tunde Ajayi**
 
 Machine Intelligence Student
-
 African Masters in Machine Intelligence (AMMI)
 
 African Institute for Mathematical Sciences, Ghana
