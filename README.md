@@ -9,7 +9,7 @@ The repo contains two major `recordings` in **Hausa language**: 2h read speech a
 
 Despite the fact that short sentences are preferred for raw speech, this long-sentences speech recording is very useful as it has its own role to play in research where testing robustness of models is required. This explains why a recorded prompt could vary from a minute to 5 or 7 minutes. This data is worth appreciating due to its uniqueness and research prospects.
 ## Part 2: Frog story
-This data contains raw speech recorded (in **Hausa language**) by describing events as found in different images that made up the story. (Source: https://lig-aikuma.imag.fr/wp-content/uploads/2018/07/FrogStory.zip).
+This data contains raw speech recorded (in **Hausa language**) by describing events as found in different images that made up the story. (Source: https://lig-aikuma.imag.fr/wp-content/uploads/2018/07/FrogStory.zip)
 ## Limitations/problems encountered during data collection
 * There is possiblity the data contains background noise, like the humming sound of A.C or the soft chatters of flatmates.
 * In case my voice sounded sleepy, the recording took place in the middle of the night (I was hoping to find no one awake).
