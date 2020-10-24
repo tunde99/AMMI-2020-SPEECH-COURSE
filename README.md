@@ -14,14 +14,14 @@ This data contains raw speech recorded (in **Hausa language**) by describing eve
 * There is possiblity the data contains background noise, like the humming sound of A.C or the soft chatters of flatmates.
 * In case my voice sounded sleepy, the recording took place in the middle of the night (I was hoping to find no one awake).
 * The recording was done after undergoing a minor dental surgery (in case I sounded funny).
-* The recorded language, Hausa, is the language of my region of birth (not my mother-tongue). Apologies to the native Hausa speakers for all incorrectly pronounced words and every injustice to stress patterns.
+* The recorded language, Hausa, is the language of my region of birth (not my mother-tongue). Apologies to the native Hausa speakers for all incorrectly pronounced words and every injustice done to the stress patterns.
 
 ### Author
 **Tunde Ajayi**
 
 Machine Intelligence Student
 
-African Masters in Machine Intelligence (AMMI)
+African Masters of Machine Intelligence (AMMI)
 
 African Institute for Mathematical Sciences, Ghana
 
