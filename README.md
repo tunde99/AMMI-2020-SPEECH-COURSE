@@ -23,7 +23,7 @@ Machine Intelligence Student
 
 African Masters of Machine Intelligence (AMMI)
 
-African Institute for Mathematical Sciences, Ghana
+African Institute for Mathematical Sciences (AIMS) Ghana
 
 tajayi@aimsammi.org
 
