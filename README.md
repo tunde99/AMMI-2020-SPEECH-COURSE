@@ -26,10 +26,12 @@ African Masters of Machine Intelligence (AMMI)
 African Institute for Mathematical Sciences (AIMS) Ghana
 
 ### Credits
-Many thanks to the following persons for their contributions:
+Many thanks to the following contributors:
 
 Dattijo Murtala Makama - for providing native speaker version of the frog story.
 
-Abubakr Babiker - for data preprocessing. 
+Abubakr Babiker - for data preprocessing.
+
+Laurent Besacier - for initiating the project
 
 
