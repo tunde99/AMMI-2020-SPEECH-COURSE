@@ -32,6 +32,6 @@ Dattijo Murtala Makama - for providing native speaker version of the frog story.
 
 Abubakr Babiker - for data preprocessing.
 
-Laurent Besacier - for initiating the project
+Laurent Besacier - for initiating the project.
 
 
